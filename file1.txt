@@ -1,0 +1,2 @@
+git config --global name "zmx"
+git config --global email "407055812@qq.com"
